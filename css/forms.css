@@ -1,0 +1,15 @@
+.bth {
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  padding: 0px 33px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #000000;
+  background-color: #ffffff;
+  font-family: "Conv_BebasNeue Regular";
+}
+.bth--w {
+  background-color: #000;
+  color: #fff;
+}
